@@ -1,0 +1,5 @@
+Access Key: AKIAXPUPNUFMBWVVUWWP
+Secret Access Key: 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
+
+Access Key CLI: AKIAXPUPNUFMF4FEQWVS
+Secret Access Key CLI: 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
