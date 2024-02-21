@@ -10,4 +10,3 @@ for users in iam_resource.users.all():
     
 for users in iam_client.list_users()['Users']:
     print(users['UserName'])
-    
